@@ -16,7 +16,7 @@ _"Offer an example of how to setup an expo app to receive notifications"._
 
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Email-me: stenio.wagner1@gmail.com
+Email-me: kautoman99923@gmail.com
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/).
 
@@ -30,7 +30,7 @@ It's free!
 
 - This project uses the React hooks all around (useCallback, useState, useEffect...), so, if you want to see these features in action, take a look on the project!
 
-- Speaking about hooks, this project shares a specific functionality with the [expo-notifications-dashboard](https://github.com/steniowagner/expo-notifications-dashboard), that is the functionality to fetch data using HTTP protocol. Both projects use exactly the same implementation, take a look: [expo-useFetch](https://github.com/steniowagner/expo-notifications-app/blob/master/src/hooks/useFetch.ts) and [web-useFetch](https://github.com/steniowagner/expo-notifications-dashboard/blob/master/src/hooks/useFetch.ts).
+- Speaking about hooks, this project shares a specific functionality with the [expo-notifications-dashboard](https://github.com/kAutoman/expo-notifications-dashboard), that is the functionality to fetch data using HTTP protocol. Both projects use exactly the same implementation, take a look: [expo-useFetch](https://github.com/kAutoman/expo-notifications-app/blob/master/src/hooks/useFetch.ts) and [web-useFetch](https://github.com/kAutoman/expo-notifications-dashboard/blob/master/src/hooks/useFetch.ts).
 This is a perfect example of how we can share code using hooks, we can write the functionality once and reuse them on the web, mobile and wherever you can use React!
 
 ## Getting Started
@@ -39,14 +39,14 @@ This is a perfect example of how we can share code using hooks, we can write the
 
 To run this project in the development mode, you'll need to have a basic environment to run a Expo App, that can be found [here](https://docs.expo.io/versions/latest/get-started/installation/).
 
-Also, you'll need to the server running locallyon your network. You can find the server and all the instructions to start the server [here](https://github.com/steniowagner/expo-notifications-api).
+Also, you'll need to the server running locallyon your network. You can find the server and all the instructions to start the server [here](https://github.com/kAutoman/expo-notifications-api).
 
 ### Installing
 
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/steniowagner/expo-notifications-app
+$ git clone https://github.com/kAutoman/react-native-expo-notify.git
 
 $ cd expo-notifications-app
 ```
@@ -110,12 +110,9 @@ $ yarn ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: stenio.wagner1@gmail.com
+Email-me: kautoman99923@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/kAutoman/)
 
 Thank you!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/steniowagner/expo-notifications-app/blob/master/LICENSE) file for details.
